@@ -1,1 +1,1 @@
-<h6>My linux customized configuration</h6>
+<h6>Customized configuration for my Linux</h6>
