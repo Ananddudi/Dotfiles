@@ -1,3 +1,1 @@
-# Dotfiles
-for linux <br/>
-Some configuration as i want for my linux system
+<h6>My linux customized configuration</h6>
